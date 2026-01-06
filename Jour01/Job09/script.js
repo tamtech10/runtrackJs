@@ -1,0 +1,1 @@
+function tri(numbers, order) {
