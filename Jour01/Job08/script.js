@@ -14,3 +14,4 @@ if (nbPremier(x) && nbPremier(y)) {
         return false;
     }
 }
+

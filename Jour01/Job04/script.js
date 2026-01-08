@@ -1,5 +1,5 @@
 function bisextile(annee) {
-    if ((annee % 4 == 0 )) {
+    if ((annee % 4) == 0 ) {
         console.log("L'annee " + annee + " est bisextile.");
         return true;
     } else {
