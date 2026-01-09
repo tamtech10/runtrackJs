@@ -1,5 +1,5 @@
-let button = document.getElementById("button");
-let compteur = document.getElementById("compteur");
+let button = document.getElementById("button"); //mozemo koristiti const
+let compteur = document.getElementById("compteur"); //mozemo koristiti const
 
 //let valeur = 0;
 function addOne () {
