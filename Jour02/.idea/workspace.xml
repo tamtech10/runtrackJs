@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6b6795c-3de1-4967-82ff-56f621800cba" name="Changes" comment="Day 2(DOM), exo03- changes">
+      <change afterPath="$PROJECT_DIR$/Job04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job04/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tamtech10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tamtech10/runtrackJs.git&quot;,
+    &quot;accountId&quot;: &quot;41f19e3b-ebee-4dde-9280-21a5e56e4d58&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37yDWbHKx8qyfLgZMzKJQmoopOw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cukon Stankovic/Desktop/Formation/Nouveau dossier/JavaScript/javascript/Jour02"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Jour02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Jour02" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6b6795c-3de1-4967-82ff-56f621800cba" name="Changes" comment="" />
+      <created>1767866454875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767866454875</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day 2(DOM), exo01- button shows a message in the console">
+      <option name="closed" value="true" />
+      <created>1767877978636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767877978636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 2(DOM), exo02- clic button shows and hides text on the page">
+      <option name="closed" value="true" />
+      <created>1767878061942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767878061942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 2(DOM), exo03- clic button increases the value on the page by one">
+      <option name="closed" value="true" />
+      <created>1767880767300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767880767300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 2(DOM), exo03- changes">
+      <option name="closed" value="true" />
+      <created>1767969164027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767969164027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 2(DOM), exo01- button shows a message in the console" />
+    <MESSAGE value="Day 2(DOM), exo02- clic button shows and hides text on the page" />
+    <MESSAGE value="Day 2(DOM), exo03- clic button increases the value on the page by one" />
+    <MESSAGE value="Day 2(DOM), exo03- changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2(DOM), exo03- changes" />
+  </component>
+</project>
