@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dff7e1;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+    color: #6fa8dc; 
+}     
+
+
+form {
+    max-width: 70%;
+    margin: 0 auto 30px auto;
+    padding: 4%;
+    padding-top: 5%;
+    background-color: #e1f0ff; 
+     border-radius: 3%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+form label {
+    
+    margin-top: 10px;
+    font-weight: bold;
+}    
+
+form input[type="text"], form select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}       
+
+form input[type="button"] {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #6fa8dc; 
+}
